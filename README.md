@@ -1,4 +1,4 @@
-# Playertotal
+# PlayerTotal
 
 一个支持 Minecraft 1.21.X 的服务器统计插件，记录玩家数据并提供 PlaceholderAPI 变量。
 
